@@ -9,14 +9,10 @@
 <table>
   <tr>
     <td>
-
       <img src="https://github-readme-stats.vercel.app/api?username=FalseRankerr&show_icons=true&theme=radical" width="450px">
-
     </td>
     <td>
-
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalseRankerr&layout=compact&langs_count=6&theme=radical" width="350px">
-
     </td>
   </tr>
 </table>
