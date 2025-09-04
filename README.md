@@ -5,7 +5,12 @@
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/falseranker)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FalseRankerr)
 
-![FalseRankerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalseRankerr&show_icons=true&theme=transparent)
 
-![FalseRankerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalseRankerr&show_icons=true&theme=radical)
+![FalseRankerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalseRankerr&show_icons=true&theme=radical)                                                                 
+
+<div align="right">
+
+![FalseRankerr's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FalseRankerr&layout=compact&langs_count=6&theme=radical)
+
+</div>
 
